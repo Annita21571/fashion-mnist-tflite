@@ -10,4 +10,4 @@ This project demonstrates how to train a CNN model using the Fashion MNIST datas
 ## How to Use:
 - Clone the repository:
   ```bash
-  git clone https://github.com/username/fashion-mnist-tflite.git
+  git clone https://github.com/Annita21571/fashion-mnist-tflite.git
